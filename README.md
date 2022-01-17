@@ -26,6 +26,8 @@ We organized the materials including software of this structure as follows:
 
 All scripts must be run in the sub folders - relative paths were used.
 
+**Note**: Due to the limitation of this repository, the raw data files cannot be proposed. Thus, the learning matrices must be downloaded [HERE](https://cloud.technikum-wien.at/s/nQ5mGQxQAcS7jdo). Please download the files and move them to the *preProc* folder.
+
 ## Installation
 
 We provide an installation file in the root directory. This script runs the requirement files in the Python folder. Afterwards, two Python virtual environments are available for data processing. You may need to adapt the paths in the bash scripts for your system.
