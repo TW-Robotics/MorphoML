@@ -1,0 +1,9 @@
+Numpy
+setuptools
+Matplotlib
+sklearn
+tensorflow-gpu==2.4.1
+Keras
+innvestigate
+keras-VIS
+opencv-python
