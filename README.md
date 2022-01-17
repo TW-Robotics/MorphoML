@@ -47,5 +47,6 @@ The features/GPA scaled coordinates are summarized in the following 3D multivari
 ![MVA](Analysis/ourResults/result_MVA.png)
 
 Since there are obvious overlappign population distributions we applied pCA to the data and obtained following pCA matrices (left side). Furthermore, we applied a Bayes factor based hypothese test (right side), where the red dots indicates insignificant population logation discriminability.
+The following plots are ordered as follows: GPA Ethiopia/Uganda, GP-LVM Ethiopia/Uganda, cAE Ethiopia/Uganda.
 
 ![pCAM](Analysis/ourResults/result_pCAM.jpg)
