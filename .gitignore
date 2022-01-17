@@ -1,0 +1,7 @@
+#ignore all kind of files
+*
+*.*
+#exceptions
+!*.py
+!*.R
+!*.bash
