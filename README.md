@@ -20,7 +20,7 @@ We organized the materials including software of this structure as follows:
 - **Analysis**: All scripts to investigate the machine learning/GPA results. This includes Spearmans rank correlation test, cAE model selection, multivariate analysis, pCA and GPA hypothese tests.
 - **Autoencoder**: The Python scripts for image data pre-processing and cAE optimization relying on Keras.
 - **GPLVM**: All bash and Python scripts used for data processing as well as latent space visualization.
-- **preProc**: Files to pre process the raw data and provide the files all machine learning models. This studies analysis relies on the files in this folder. This folder includes the landmarks, images and meta data.
+- **preProc**: Pre process files. This studies analysis relies on the files in this folder. This folder includes the landmarks, images and meta data.
 - **Procrustes**: GPA cran R script. The resulting files are located here.
 - **Python**: Installation script (see below) as well as basic scripts for GP-LVM as well as feature visualization.
 
